@@ -5,7 +5,7 @@
 ?>
 <body>
 <script type="text/javascript">
-console.log("성공");
+console.log("성ddddddddddddddddd공");
 
 function companyBtn(){
 	
